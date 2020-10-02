@@ -5,7 +5,7 @@
 + Use jQuery to manipulate HTML
 
 ## Instructions
-Everyone loves a good gif of puppies and kids doing funny things, so let's use jQuery to make sure we have a good one on our page.
+Everybody cherishes a decent gif of doggies and children doing interesting things, so we should utilize jQuery to ensure we have a decent one on our page.
 
 We'll be coding our solution in `html/index.html`.
 
